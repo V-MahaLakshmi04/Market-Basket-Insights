@@ -1,10 +1,32 @@
-- 👋 Hi, I’m @V-MahaLakshmi04
-- 👀 I’m interested in CODING
-- 🌱 I’m currently learning BTECH-IT
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+AI-IBM-PROJECT
 
-<!---
-V-MahaLakshmi04/V-MahaLakshmi04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+MARKET BASKET INSIGHTS PROJECT
+
+INSTRUCTIONS
+
+1. Open the notebook.
+2. Execute each cell to run the code.
+3. View the results and outputs for insights.
+
+DEPENDENCIES
+
+Python 3.7 or higher
+• Pandas, mlxtend, and other required libraries (install using pip install -r requirements.txt)
+
+DATASET SOURCE
+
+• The dataset is sourced from Kaggle: Market Basket Analysis.
+https://www.kaggle.com/datasets/aslanahmedov/market-basket-analysis
+
+• Ensure the dataset file ('Assignment-1_Data.xlsx) is downloaded and placed in the correct location.
+
+DESCRIPTION
+
+This project performs Market Basket Analysis to uncover patterns in customer purchasing behavior. Each phase focuses on specific aspects of data loading, preprocessing, algorithm application, and rule generation.
+
+DATASET DESCRIPTION 
+
+• Source: Kaggle: Market Basket Analysis
+https://www.kaggle.com/datasets/aslanahmedov/market-basket-analysis 
+
+• Description: The dataset contains transactional data from a retail business, including BillNo, Date, and Itemname columns. The goal is to perform Market Basket Analysis and generate association rules.
